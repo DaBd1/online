@@ -225,7 +225,7 @@ body{
 }
 .product-img{
     width: 50%;
-    text-align: left;
+    text-align:justify;
 }
 .product-img h4{
     display: inline-block;
@@ -242,7 +242,8 @@ body{
 
 .product-img img{
     width: 150px;
-    height: 120px;
+    height: 140px;
+    padding-right: 20px;
 }
 
 .product-txt{
